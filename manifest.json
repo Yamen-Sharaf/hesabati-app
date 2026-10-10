@@ -1,0 +1,13 @@
+{
+  "name": "حساباتي",
+  "short_name": "حساباتي",
+  "description": "إدارة المشاريع والدفعات وأجور العمال والعائلة والمدخرات",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#123c35",
+  "icons": []
+}
